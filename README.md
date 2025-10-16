@@ -1,8 +1,4 @@
-Creado por,
-Dayanna Triviño Riaño
-Jefferson Cespedes Florez
-Valentina Ovalle Pinzon
-Laura Baron Molina
+Creado por, Dayanna Triviño Riaño, Jefferson Cespedes Florez,Valentina Ovalle Pinzon y Laura Baron Molina.
 
 
 # 📊 Flujo de Trabajo para la Transformación y Análisis de Datos Tabulares
