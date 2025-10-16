@@ -1,4 +1,4 @@
-Creado: 
+Creado por,
 Dayanna Triviño Riaño
 Jefferson Cespedes Florez
 Valentina Ovalle Pinzon
